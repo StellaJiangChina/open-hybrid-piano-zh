@@ -1,4 +1,4 @@
-# Hybrid MIDI Digital Piano
+# 混合MIDI数码钢琴
 
 Also known as **stem piano**
 
